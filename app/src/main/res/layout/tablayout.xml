@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tabLayout">
+
+     <com.google.android.material.tabs.TabItem
+         android:layout_width="wrap_content"
+         android:layout_height="match_parent"
+         android:text="Comida"
+         android:id="@+id/tabComida">
+     </com.google.android.material.tabs.TabItem>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Bebidas"
+        android:id="@+id/tabBebidas">
+    </com.google.android.material.tabs.TabItem>
+
+    <com.google.android.material.tabs.TabItem
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Complementos"
+        android:id="@+id/tabComplementos">
+    </com.google.android.material.tabs.TabItem>
+
+</com.google.android.material.tabs.TabLayout>
