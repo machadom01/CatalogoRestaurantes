@@ -82,7 +82,7 @@ Este proyecto me permitió resolver problemas clásicos que solidificaron mi ent
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/machadom01/CatalogoRestaurantes.git
     ```
 2.  **Abre en Android Studio:**
     Desde Android Studio, selecciona `File > Open` y navega a la carpeta del proyecto clonado.
